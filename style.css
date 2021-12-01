@@ -17,7 +17,6 @@ main {
     position: sticky;
     top: 0;
 }
-
 .sticky li {
     display: inline-block;
     list-style: none;
