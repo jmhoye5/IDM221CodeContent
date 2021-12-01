@@ -1,0 +1,20 @@
+.information {
+    font-size: .8rem;
+    line-height: .4rem;
+    margin-top: 4rem;
+}
+.information li {
+    line-height: 1rem;
+}
+.no-bullets {
+    list-style: none;
+}
+.bullets {
+    margin-left: 2.5rem;
+}
+h1 {
+    color: cornflowerblue;
+}
+h4 {
+    line-height: 1rem;
+}
